@@ -1,6 +1,6 @@
 // import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { SafeAreaView, StyleSheet, Text, View, StatusBar } from 'react-native';
+import {Platform, SafeAreaView, StyleSheet, Text, View, StatusBar } from 'react-native';
 import store from './store'
 import { Provider } from 'react-redux';
 import Route from './route';
