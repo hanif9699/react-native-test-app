@@ -29,5 +29,6 @@
   "resolutions": {
     "styled-components": "^5"
   },
-  "private": true
+  "private": true,
+  "homepage": "/webapp"
 }
