@@ -1,2 +1,3 @@
-web: yarn build 
+web: yarn build
+web: yes
 web: npx serve web-build
